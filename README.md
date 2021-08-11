@@ -1,7 +1,7 @@
 # Extubation_Failure_Prediction
 This is a complete preprocessing, model training, and figure generation repo for "THE USE OF MACHINE LEARNING ON PICU DATA FOR THE PREDICTION OF EXTUBATION FAILURE AFTER SURGERY IN PEDIATRIC PATIENTS WITH CONGENITAL HEART DISEASE "
 
-# Build-up
+Build-up
 All files are build up similar. All files with the CHD extension were specified for congenital heart disease cohort, without the extension were specified for the bronchiolitis cohort. In all files the output_folder is the main folder for results
 
 CHD_dat_prep: Chunkwise preparation of raw data
