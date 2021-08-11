@@ -1,7 +1,7 @@
 # Extubation_Failure_Prediction
 This is a complete preprocessing, model training, and figure generation repo for "THE USE OF MACHINE LEARNING ON PICU DATA FOR THE PREDICTION OF EXTUBATION FAILURE AFTER SURGERY IN PEDIATRIC PATIENTS WITH CONGENITAL HEART DISEASE "
 
-**Build up**
+**Build up** <br />
 All files are build up similar. <br /> All files with the CHD extension were specified for congenital heart disease cohort, without the extension were specified for the bronchiolitis cohort.  In all files the output_folder is the main folder for results
 
 CHD_dat_prep: Chunkwise preparation of raw data <br />
@@ -14,8 +14,8 @@ ROC_CURVES and Feature_importance: files to create the ROC plots and the feature
 <br />
 All standard variables, all own functions and attention_function consists of supporting variables and functions for the other files. <br />
 <br />
-**License**
+**License** <br />
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-**Acknowledgements**
+**Acknowledgements** <br />
 Thanks to Deepak A. Kaji and Philippe remy for providing open source code for a recurrent neural network and attention function
